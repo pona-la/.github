@@ -4,21 +4,21 @@
 
 Github UI offers you a quick and easy way to do this!
 
-\1. Find the file you want to edit:
+1. Find the file you want to edit:
 
 <img src="https://raw.githubusercontent.com/pona-la/.github/refs/heads/main/assets/github-help-01.png" />
 
-\2. Open Edit mode:
+2. Open Edit mode:
 
 <img src="https://raw.githubusercontent.com/pona-la/.github/refs/heads/main/assets/github-help-02.png" />
 
-\3. Make your changes.
+3. Make your changes.
 
-\4. Save your changes by committing them:
+4. Save your changes by committing them:
 
 <img src="https://raw.githubusercontent.com/pona-la/.github/refs/heads/main/assets/github-help-03.png" />
 
-\5. Describe in the commit what you've edited. Github will automatically offer to create a pull request for you:
+5. Describe in the commit what you've edited. Github will automatically offer to create a pull request for you:
 
 <img src="https://raw.githubusercontent.com/pona-la/.github/refs/heads/main/assets/github-help-04.png" />
 
