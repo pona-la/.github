@@ -8,9 +8,13 @@ Github UI offers you a quick and easy way to do this!
 
 <img src="https://raw.githubusercontent.com/pona-la/.github/refs/heads/main/assets/github-help-01.png" />
 
-2. Open Edit mode:
+2. Try to open Edit mode:
 
-<img src="https://raw.githubusercontent.com/pona-la/.github/refs/heads/main/assets/github-help-02.png" />
+<img src="https://raw.githubusercontent.com/pona-la/.github/refs/heads/main/assets/github-help-06.png" />
+
+3. Accept forking the repo:
+
+<img src="https://raw.githubusercontent.com/pona-la/.github/refs/heads/main/assets/github-help-05.png" />
 
 3. Make your changes.
 
