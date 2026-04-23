@@ -54,3 +54,6 @@ At that point you're done! Wait for the upstream maintainer to see and respond/a
 ## Need more details?
 
 Further reading: https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs/
+
+Github Desktop: https://desktop.github.com/download/  
+Github Desktop is a GUI for Git. It is an easy way to get started using Git on your computer.
