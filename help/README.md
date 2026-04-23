@@ -29,7 +29,7 @@ We will receive a notification about the pull request, eventually review and mer
 At this point you should learn more about Git and Github.
 
 **What is Git?** Git is a **version-control** program.
-* **What is version control?** You likely know the simplest possible version control: undo-redo (Ctrl+Z, Ctrl+Y). Imagine undo-redo as a chain of past, present, and future file versions. If you undo and start typing, your all "redo" versions are lost, because the chain has to stay linear. But in **git** instead of a linear chain you have a tree - a branching structure. Thanks to this, no work is lost, and several people can work in parallel.
+* **What is version control?** You likely know the simplest possible version control: undo-redo (Ctrl+Z, Ctrl+Y). Imagine undo-redo as a chain of past, present, and future file versions. If you undo and start typing, all your "redo" versions are lost, because the chain has to stay linear. But in **git** instead of a linear chain you have a tree - a branching structure. Thanks to this, no work is lost, and several people can work in parallel.
 * A **commit** is each individual version in a tree.
 * A **branch** is a part of the tree that is linear. We often have one main branch, and many small short-lived branches.
 * Work done on one branch can be **merged** to another branch.
