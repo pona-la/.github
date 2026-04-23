@@ -16,15 +16,19 @@ Github UI offers you a quick and easy way to do this!
 
 <img src="https://raw.githubusercontent.com/pona-la/.github/refs/heads/main/assets/github-help-05.png" />
 
-3. Make your changes.
+4. Make your changes.
 
-4. Save your changes by committing them:
+5. Save your changes by committing them:
 
 <img src="https://raw.githubusercontent.com/pona-la/.github/refs/heads/main/assets/github-help-03.png" />
 
-5. Describe in the commit what you've edited. Github will automatically offer to create a pull request for you:
+6. Describe in the commit what you've edited:
 
-<img src="https://raw.githubusercontent.com/pona-la/.github/refs/heads/main/assets/github-help-04.png" />
+<img src="https://raw.githubusercontent.com/pona-la/.github/refs/heads/main/assets/github-help-07.png" />
+
+7. Open a pull request:
+
+<img src="https://raw.githubusercontent.com/pona-la/.github/refs/heads/main/assets/github-help-08.png" />
 
 We will receive a notification about the pull request, eventually review and merge it!
 
