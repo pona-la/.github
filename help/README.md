@@ -43,7 +43,7 @@ On Github there are user accounts, and they "own" files. To work together on the
 
 When you want to help a project that you don't own, here's how what you usually need to do:
 * **Fork** the repository.
-* **Clone** the repository from Github to your computer.
+* **Clone** your forked repository from Github to your computer.
 * **Create a branch** for your feature.
 * Do some work and **commit** it.
 * **Push** the commit(s) to Github.
